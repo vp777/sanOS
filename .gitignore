@@ -1,0 +1,7 @@
+*.o
+*.out
+*.bin
+os_image
+ignore/
+bx_enh_dbg.ini
+

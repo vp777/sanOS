@@ -1,0 +1,8 @@
+floppya: 1_44=os_image, status=inserted
+boot: a
+#display_library: sdl2, options="gui_debug"
+display_library: x, options="gui_debug"
+#https://wiki.osdev.org/Bochs
+#xchg bx, bx
+magic_break: enabled=1
+
